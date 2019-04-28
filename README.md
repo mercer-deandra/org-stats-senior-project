@@ -1,5 +1,6 @@
 # org-stats-senior-project
 Senior Project for project OrgStats
+
 This is the Jupyter Notebook with the code for the OrgStats project.
 This is a self-created project for my senior project.
 
